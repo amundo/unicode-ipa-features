@@ -1,0 +1,1216 @@
+{
+  "metadata": {
+    "title": "IPA Unicode Character database",
+    "description": "A database of Unicode characters used in IPA, together with associated phonetic features. For a database of commonly used phones, see ipa.json"
+  },
+  "characters": [
+    {
+      "codepoint": "0069",
+      "name": "LATIN SMALL LETTER I",
+      "character": "i",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0079",
+      "name": "LATIN SMALL LETTER Y",
+      "character": "y",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0268",
+      "name": "LATIN SMALL LETTER I WITH STROKE",
+      "character": "ɨ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0289",
+      "name": "LATIN SMALL LETTER U BAR",
+      "character": "ʉ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "026F",
+      "name": "LATIN SMALL LETTER TURNED M",
+      "character": "ɯ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0075",
+      "name": "LATIN SMALL LETTER U",
+      "character": "u",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "026A",
+      "name": "LATIN LETTER SMALL CAPITAL I",
+      "character": "ɪ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "028F",
+      "name": "LATIN LETTER SMALL CAPITAL Y",
+      "character": "ʏ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0308",
+      "name": "COMBINING DIAERESIS",
+      "character": "̈",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "028A",
+      "name": "LATIN SMALL LETTER UPSILON",
+      "character": "ʊ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "033D",
+      "name": "COMBINING X ABOVE",
+      "character": "̽",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0065",
+      "name": "LATIN SMALL LETTER E",
+      "character": "e",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00F8",
+      "name": "LATIN SMALL LETTER O WITH STROKE",
+      "character": "ø",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0258",
+      "name": "LATIN SMALL LETTER REVERSED E",
+      "character": "ɘ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0275",
+      "name": "LATIN SMALL LETTER BARRED O",
+      "character": "ɵ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0264",
+      "name": "LATIN SMALL LETTER RAMS HORN",
+      "character": "ɤ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "006F",
+      "name": "LATIN SMALL LETTER O",
+      "character": "o",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "031E",
+      "name": "COMBINING DOWN TACK BELOW",
+      "character": "̞",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0259",
+      "name": "LATIN SMALL LETTER SCHWA",
+      "character": "ə",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "025B",
+      "name": "LATIN SMALL LETTER OPEN E",
+      "character": "ɛ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0153",
+      "name": "LATIN SMALL LIGATURE OE",
+      "character": "œ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "025C",
+      "name": "LATIN SMALL LETTER REVERSED OPEN E",
+      "character": "ɜ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "025E",
+      "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
+      "character": "ɞ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "028C",
+      "name": "LATIN SMALL LETTER TURNED V",
+      "character": "ʌ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0254",
+      "name": "LATIN SMALL LETTER OPEN O",
+      "character": "ɔ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00E6",
+      "name": "LATIN SMALL LETTER AE",
+      "character": "æ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0250",
+      "name": "LATIN SMALL LETTER TURNED A",
+      "character": "ɐ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0061",
+      "name": "LATIN SMALL LETTER A",
+      "character": "a",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0276",
+      "name": "LATIN LETTER SMALL CAPITAL OE",
+      "character": "ɶ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00E4",
+      "name": "LATIN SMALL LETTER A WITH DIAERESIS",
+      "character": "ä",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0251",
+      "name": "LATIN SMALL LETTER ALPHA",
+      "character": "ɑ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0252",
+      "name": "LATIN SMALL LETTER TURNED ALPHA",
+      "character": "ɒ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0129",
+      "name": "LATIN SMALL LETTER I WITH TILDE",
+      "character": "ĩ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "1EF9",
+      "name": "LATIN SMALL LETTER Y WITH TILDE",
+      "character": "ỹ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0303",
+      "name": "COMBINING TILDE",
+      "character": "̃",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0169",
+      "name": "LATIN SMALL LETTER U WITH TILDE",
+      "character": "ũ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "1EBD",
+      "name": "LATIN SMALL LETTER E WITH TILDE",
+      "character": "ẽ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00F5",
+      "name": "LATIN SMALL LETTER O WITH TILDE",
+      "character": "õ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00E3",
+      "name": "LATIN SMALL LETTER A WITH TILDE",
+      "character": "ã",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0064",
+      "name": "LATIN SMALL LETTER D",
+      "character": "d",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "02B1",
+      "name": "MODIFIER LETTER SMALL H WITH HOOK",
+      "character": "ʱ",
+      "type": "modifier",
+      "features": {
+      }
+    },
+    {
+      "codepoint": "0074",
+      "name": "LATIN SMALL LETTER T",
+      "character": "t",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0361",
+      "name": "COMBINING DOUBLE INVERTED BREVE",
+      "character": "͡",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "026C",
+      "name": "LATIN SMALL LETTER L WITH BELT",
+      "character": "ɬ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "02BC",
+      "name": "MODIFIER LETTER APOSTROPHE",
+      "character": "ʼ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "2019",
+      "name": "RIGHT SINGLE QUOTATION MARK",
+      "character": "’",
+      "type": "base",
+      "features": {
+      }
+    },
+    {
+      "codepoint": "032A",
+      "name": "COMBINING BRIDGE BELOW",
+      "character": "̪",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "02B0",
+      "name": "MODIFIER LETTER SMALL H",
+      "character": "ʰ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "0073",
+      "name": "LATIN SMALL LETTER S",
+      "character": "s",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "007A",
+      "name": "LATIN SMALL LETTER Z",
+      "character": "z",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0257",
+      "name": "LATIN SMALL LETTER D WITH HOOK",
+      "character": "ɗ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "02B7",
+      "name": "MODIFIER LETTER SMALL W",
+      "character": "ʷ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "006C",
+      "name": "LATIN SMALL LETTER L",
+      "character": "l",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "02B2",
+      "name": "MODIFIER LETTER SMALL J",
+      "character": "ʲ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "0325",
+      "name": "COMBINING RING BELOW",
+      "character": "̥",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "026E",
+      "name": "LATIN SMALL LETTER LEZH",
+      "character": "ɮ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "006E",
+      "name": "LATIN SMALL LETTER N",
+      "character": "n",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "014B",
+      "name": "LATIN SMALL LETTER ENG",
+      "character": "ŋ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "030A",
+      "name": "COMBINING RING ABOVE",
+      "character": "̊",
+      "type": "diacritic",
+      "features": {
+      }
+    },
+    {
+      "codepoint": "027E",
+      "name": "LATIN SMALL LETTER R WITH FISHHOOK",
+      "character": "ɾ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0072",
+      "name": "LATIN SMALL LETTER R",
+      "character": "r",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0062",
+      "name": "LATIN SMALL LETTER B",
+      "character": "b",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0070",
+      "name": "LATIN SMALL LETTER P",
+      "character": "p",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0278",
+      "name": "LATIN SMALL LETTER PHI",
+      "character": "ɸ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "03B2",
+      "name": "GREEK SMALL LETTER BETA",
+      "character": "β",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0253",
+      "name": "LATIN SMALL LETTER B WITH HOOK",
+      "character": "ɓ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "006D",
+      "name": "LATIN SMALL LETTER M",
+      "character": "m",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0299",
+      "name": "LATIN LETTER SMALL CAPITAL B",
+      "character": "ʙ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00F0",
+      "name": "LATIN SMALL LETTER ETH",
+      "character": "ð",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "03B8",
+      "name": "GREEK SMALL LETTER THETA",
+      "character": "θ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0068",
+      "name": "LATIN SMALL LETTER H",
+      "character": "h",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0294",
+      "name": "LATIN LETTER GLOTTAL STOP",
+      "character": "ʔ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "028B",
+      "name": "LATIN SMALL LETTER V WITH HOOK",
+      "character": "ʋ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0066",
+      "name": "LATIN SMALL LETTER F",
+      "character": "f",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0076",
+      "name": "LATIN SMALL LETTER V",
+      "character": "v",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0271",
+      "name": "LATIN SMALL LETTER M WITH HOOK",
+      "character": "ɱ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "006A",
+      "name": "LATIN SMALL LETTER J",
+      "character": "j",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "00E7",
+      "name": "LATIN SMALL LETTER C WITH CEDILLA",
+      "character": "ç",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "029D",
+      "name": "LATIN SMALL LETTER J WITH CROSSED-TAIL",
+      "character": "ʝ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "028E",
+      "name": "LATIN SMALL LETTER TURNED Y",
+      "character": "ʎ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0272",
+      "name": "LATIN SMALL LETTER N WITH LEFT HOOK",
+      "character": "ɲ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0063",
+      "name": "LATIN SMALL LETTER C",
+      "character": "c",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "025F",
+      "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
+      "character": "ɟ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0283",
+      "name": "LATIN SMALL LETTER ESH",
+      "character": "ʃ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0292",
+      "name": "LATIN SMALL LETTER EZH",
+      "character": "ʒ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "027D",
+      "name": "LATIN SMALL LETTER R WITH TAIL",
+      "character": "ɽ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0282",
+      "name": "LATIN SMALL LETTER S WITH HOOK",
+      "character": "ʂ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0290",
+      "name": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
+      "character": "ʐ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "026D",
+      "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK",
+      "character": "ɭ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0273",
+      "name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
+      "character": "ɳ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0256",
+      "name": "LATIN SMALL LETTER D WITH TAIL",
+      "character": "ɖ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0288",
+      "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
+      "character": "ʈ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0071",
+      "name": "LATIN SMALL LETTER Q",
+      "character": "q",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0281",
+      "name": "LATIN LETTER SMALL CAPITAL INVERTED R",
+      "character": "ʁ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "03C7",
+      "name": "GREEK SMALL LETTER CHI",
+      "character": "χ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0270",
+      "name": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
+      "character": "ɰ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0067",
+      "name": "LATIN SMALL LETTER G",
+      "character": "g",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "006B",
+      "name": "LATIN SMALL LETTER K",
+      "character": "k",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0263",
+      "name": "LATIN SMALL LETTER GAMMA",
+      "character": "ɣ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0078",
+      "name": "LATIN SMALL LETTER X",
+      "character": "x",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0260",
+      "name": "LATIN SMALL LETTER G WITH HOOK",
+      "character": "ɠ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0255",
+      "name": "LATIN SMALL LETTER C WITH CURL",
+      "character": "ɕ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0291",
+      "name": "LATIN SMALL LETTER Z WITH CURL",
+      "character": "ʑ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0262",
+      "name": "LATIN LETTER SMALL CAPITAL G",
+      "character": "ɢ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0127",
+      "name": "LATIN SMALL LETTER H WITH STROKE",
+      "character": "ħ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0266",
+      "name": "LATIN SMALL LETTER H WITH HOOK",
+      "character": "ɦ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "029F",
+      "name": "LATIN LETTER SMALL CAPITAL L",
+      "character": "ʟ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0274",
+      "name": "LATIN LETTER SMALL CAPITAL N",
+      "character": "ɴ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0280",
+      "name": "LATIN LETTER SMALL CAPITAL R",
+      "character": "ʀ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0279",
+      "name": "LATIN SMALL LETTER TURNED R",
+      "character": "ɹ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "027B",
+      "name": "LATIN SMALL LETTER TURNED R WITH HOOK",
+      "character": "ɻ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0265",
+      "name": "LATIN SMALL LETTER TURNED H",
+      "character": "ɥ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "028D",
+      "name": "LATIN SMALL LETTER TURNED W",
+      "character": "ʍ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0077",
+      "name": "LATIN SMALL LETTER W",
+      "character": "w",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "02A1",
+      "name": "LATIN LETTER GLOTTAL STOP WITH STROKE",
+      "character": "ʡ",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "0334",
+      "name": "COMBINING TILDE OVERLAY",
+      "character": "̴",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "033C",
+      "name": "COMBINING SEAGULL BELOW",
+      "character": "̼",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "032A",
+      "name": "COMBINING BRIDGE BELOW",
+      "character": "̪",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "033B",
+      "name": "COMBINING SQUARE BELOW",
+      "character": "̻",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "033A",
+      "name": "COMBINING INVERTED BRIDGE BELOW",
+      "character": "̺",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "031F",
+      "name": "COMBINING PLUS SIGN BELOW",
+      "character": "̟",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0320",
+      "name": "COMBINING MINUS SIGN BELOW",
+      "character": "̠",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "031D",
+      "name": "COMBINING UP TACK BELOW",
+      "character": "̝",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "031E",
+      "name": "COMBINING DOWN TACK BELOW",
+      "character": "̞",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0318",
+      "name": "COMBINING LEFT TACK BELOW",
+      "character": "̘",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0319",
+      "name": "COMBINING RIGHT TACK BELOW",
+      "character": "̙",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "031C",
+      "name": "COMBINING LEFT HALF RING BELOW",
+      "character": "̜",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0339",
+      "name": "COMBINING RIGHT HALF RING BELOW",
+      "character": "̹",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "032C",
+      "name": "COMBINING CARON BELOW",
+      "character": "̬",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0325",
+      "name": "COMBINING RING BELOW",
+      "character": "̥",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0330",
+      "name": "COMBINING TILDE BELOW",
+      "character": "̰",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0324",
+      "name": "COMBINING DIAERESIS BELOW",
+      "character": "̤",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0329",
+      "name": "COMBINING VERTICAL LINE BELOW",
+      "character": "̩",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "032F",
+      "name": "COMBINING INVERTED BREVE BELOW",
+      "character": "̯",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0303",
+      "name": "COMBINING TILDE",
+      "character": "̃",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0308",
+      "name": "COMBINING DIAERESIS",
+      "character": "̈",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "033D",
+      "name": "COMBINING X ABOVE",
+      "character": "̽",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "0306",
+      "name": "COMBINING BREVE",
+      "character": "̆",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "031A",
+      "name": "COMBINING LEFT ANGLE ABOVE",
+      "character": "̚",
+      "features": {
+      },
+      "type": "diacritic"
+    },
+    {
+      "codepoint": "02DE",
+      "name": "MODIFIER LETTER RHOTIC HOOK",
+      "character": "˞",
+      "features": {
+      },
+      "type": "base"
+    },
+    {
+      "codepoint": "02E1",
+      "name": "MODIFIER LETTER SMALL L",
+      "character": "ˡ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "207F",
+      "name": "SUPERSCRIPT LATIN SMALL LETTER N",
+      "character": "ⁿ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02B7",
+      "name": "MODIFIER LETTER SMALL W",
+      "character": "ʷ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02B2",
+      "name": "MODIFIER LETTER SMALL J",
+      "character": "ʲ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02E0",
+      "name": "MODIFIER LETTER SMALL GAMMA",
+      "character": "ˠ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02E4",
+      "name": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP",
+      "character": "ˤ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02B0",
+      "name": "MODIFIER LETTER SMALL H",
+      "character": "ʰ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02BC",
+      "name": "MODIFIER LETTER APOSTROPHE",
+      "character": "ʼ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02D0",
+      "name": "MODIFIER LETTER TRIANGULAR COLON",
+      "character": "ː",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "02D1",
+      "name": "MODIFIER LETTER HALF TRIANGULAR COLON",
+      "character": "ˑ",
+      "features": {
+      },
+      "type": "modifier"
+    },
+    {
+      "codepoint": "0361",
+      "name": "COMBINING DOUBLE INVERTED BREVE",
+      "character": "͡",
+      "features": {
+      },
+      "type": "diacritic"
+    }
+  ]
+}
