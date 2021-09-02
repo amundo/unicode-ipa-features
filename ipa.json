@@ -38,8 +38,6 @@
       "alveo-palatal",
       "palato-alveolar",
       "retroflex",
-      "labialized palatal",
-      "lateral",
       "palatal",
       "velar",
       "uvular",
@@ -50,35 +48,62 @@
     "manner": [
       "plosive",
       "prenasalized plosive",
-      "ejective",
       "fricative",
       "nasal",
       "aspirated affricate",
-      "ejective affricate",
       "affricate",
       "aspirated approximant",
       "aspirated plosive",
-      "ejective fricative",
       "flap",
-      "implosive",
-      "labialized plosive",
-      "lateral approximant",
-      "lateral ejective fricative",
-      "lateral ejective affricate",
-      "lateral fricative",
       "tap",
       "approximant",
       "trill"
     ],
+    "secondary": [
+      "palatal",
+      "velar",
+      "pharyngeal"
+    ],
+    "airstream": [
+      "pulmonic",
+      "ingressive",
+      "ejective",
+      "implosive",
+      "click"
+    ],
+    "airpath": [
+      "central",
+      "lateral"
+    ],
     "voicing": [
       "voiced",
-      "voiceless"
+      "voiceless",
+      "creaky",
+      "breathy",
+      "slack",
+      "stiff"
     ],
     "length": [
-      "long"
+      "extra-short",
+      "short",
+      "half-long",
+      "long",
+      "overlong"
+    ],
+    "onset": [
+      "modal",
+      "nasal"
+    ],
+    "release": [
+      "modal",
+      "aspirated",
+      "nasal",
+      "lateral",
+      "unreleased"
     ],
     "nasalization": [
-      "nasalized"
+      "nasalized",
+      "oral"
     ],
     "ATR": [
       "+ATR",
@@ -86,7 +111,8 @@
     ],
     "stress": [
       "primary",
-      "secondary"
+      "secondary",
+      "unstressed"
     ]
   },
   "phones": [
@@ -97,7 +123,10 @@
       "features": {
         "height": "close",
         "rounding": "unrounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -107,7 +136,10 @@
       "features": {
         "height": "close",
         "rounding": "rounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -117,7 +149,10 @@
       "features": {
         "height": "close",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -127,7 +162,10 @@
       "features": {
         "height": "close",
         "rounding": "rounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -137,7 +175,10 @@
       "features": {
         "height": "close",
         "rounding": "unrounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -147,7 +188,10 @@
       "features": {
         "height": "close",
         "rounding": "rounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -157,7 +201,10 @@
       "features": {
         "height": "near-close",
         "rounding": "unrounded",
-        "backness": "near-front"
+        "backness": "near-front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -167,7 +214,10 @@
       "features": {
         "height": "near-close",
         "rounding": "rounded",
-        "backness": "near-front"
+        "backness": "near-front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -177,7 +227,10 @@
       "features": {
         "height": "near-close",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -187,7 +240,10 @@
       "features": {
         "height": "near-close",
         "rounding": "rounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -197,7 +253,10 @@
       "features": {
         "height": "near-close",
         "rounding": "unrounded",
-        "backness": "near-back"
+        "backness": "near-back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -207,7 +266,10 @@
       "features": {
         "height": "near-close",
         "rounding": "rounded",
-        "backness": "near-back"
+        "backness": "near-back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -217,7 +279,10 @@
       "features": {
         "height": "close-mid",
         "rounding": "unrounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -227,7 +292,10 @@
       "features": {
         "height": "close-mid",
         "rounding": "rounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -237,7 +305,10 @@
       "features": {
         "height": "close-mid",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -247,7 +318,10 @@
       "features": {
         "height": "close-mid",
         "rounding": "rounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -257,7 +331,10 @@
       "features": {
         "height": "close-mid",
         "rounding": "unrounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -267,7 +344,10 @@
       "features": {
         "height": "close-mid",
         "rounding": "rounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -277,7 +357,10 @@
       "features": {
         "height": "mid",
         "rounding": "unrounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -287,7 +370,10 @@
       "features": {
         "height": "mid",
         "rounding": "rounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -297,7 +383,10 @@
       "features": {
         "height": "mid",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -307,7 +396,10 @@
       "features": {
         "height": "mid",
         "rounding": "unrounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -317,7 +409,10 @@
       "features": {
         "height": "mid",
         "rounding": "rounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -327,7 +422,10 @@
       "features": {
         "height": "open-mid",
         "rounding": "unrounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -337,7 +435,10 @@
       "features": {
         "height": "open-mid",
         "rounding": "rounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -347,7 +448,10 @@
       "features": {
         "height": "open-mid",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -357,7 +461,10 @@
       "features": {
         "height": "open-mid",
         "rounding": "rounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -367,7 +474,10 @@
       "features": {
         "height": "open-mid",
         "rounding": "unrounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -377,7 +487,10 @@
       "features": {
         "height": "open-mid",
         "rounding": "rounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -387,7 +500,10 @@
       "features": {
         "height": "near-open",
         "rounding": "unrounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -397,7 +513,10 @@
       "features": {
         "height": "near-open",
         "rounding": "rounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -407,7 +526,10 @@
       "features": {
         "height": "near-open",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -417,7 +539,10 @@
       "features": {
         "height": "open",
         "rounding": "unrounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -427,7 +552,10 @@
       "features": {
         "height": "open",
         "rounding": "rounded",
-        "backness": "front"
+        "backness": "front",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -437,7 +565,10 @@
       "features": {
         "height": "open",
         "rounding": "unrounded",
-        "backness": "central"
+        "backness": "central",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -447,7 +578,10 @@
       "features": {
         "height": "open",
         "rounding": "unrounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -457,7 +591,10 @@
       "features": {
         "height": "open",
         "rounding": "rounded",
-        "backness": "back"
+        "backness": "back",
+        "voicing": "voiced",
+        "nasalization": "oral",
+        "length": "short"
       }
     },
     {
@@ -468,7 +605,9 @@
         "height": "close",
         "rounding": "unrounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -479,7 +618,9 @@
         "height": "close",
         "rounding": "rounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -490,7 +631,9 @@
         "height": "close",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -501,7 +644,9 @@
         "height": "close",
         "rounding": "rounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -512,7 +657,9 @@
         "height": "close",
         "rounding": "unrounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -523,7 +670,9 @@
         "height": "close",
         "rounding": "rounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -534,7 +683,9 @@
         "height": "near-close",
         "rounding": "unrounded",
         "backness": "near-front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -545,7 +696,9 @@
         "height": "near-close",
         "rounding": "rounded",
         "backness": "near-front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -556,7 +709,9 @@
         "height": "near-close",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -567,7 +722,9 @@
         "height": "near-close",
         "rounding": "rounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -578,7 +735,9 @@
         "height": "near-close",
         "rounding": "unrounded",
         "backness": "near-back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -589,7 +748,9 @@
         "height": "near-close",
         "rounding": "rounded",
         "backness": "near-back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -600,7 +761,9 @@
         "height": "close-mid",
         "rounding": "unrounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -611,7 +774,9 @@
         "height": "close-mid",
         "rounding": "rounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -622,7 +787,9 @@
         "height": "close-mid",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -633,7 +800,9 @@
         "height": "close-mid",
         "rounding": "rounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -644,7 +813,9 @@
         "height": "close-mid",
         "rounding": "unrounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -655,7 +826,9 @@
         "height": "close-mid",
         "rounding": "rounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -666,7 +839,9 @@
         "height": "mid",
         "rounding": "unrounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -677,7 +852,9 @@
         "height": "mid",
         "rounding": "rounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -688,7 +865,9 @@
         "height": "mid",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -699,7 +878,9 @@
         "height": "mid",
         "rounding": "unrounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -710,7 +891,9 @@
         "height": "mid",
         "rounding": "rounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -721,7 +904,9 @@
         "height": "open-mid",
         "rounding": "unrounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -732,7 +917,9 @@
         "height": "open-mid",
         "rounding": "rounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -743,7 +930,9 @@
         "height": "open-mid",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -754,7 +943,9 @@
         "height": "open-mid",
         "rounding": "rounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -765,7 +956,9 @@
         "height": "open-mid",
         "rounding": "unrounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -776,7 +969,9 @@
         "height": "open-mid",
         "rounding": "rounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -787,7 +982,9 @@
         "height": "near-open",
         "rounding": "unrounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -798,7 +995,9 @@
         "height": "near-open",
         "rounding": "rounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -809,7 +1008,9 @@
         "height": "near-open",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -820,7 +1021,9 @@
         "height": "open",
         "rounding": "unrounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -831,7 +1034,9 @@
         "height": "open",
         "rounding": "rounded",
         "backness": "front",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -842,7 +1047,9 @@
         "height": "open",
         "rounding": "unrounded",
         "backness": "central",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -853,7 +1060,9 @@
         "height": "open",
         "rounding": "unrounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -864,7 +1073,9 @@
         "height": "open",
         "rounding": "rounded",
         "backness": "back",
-        "nasalization": "nasal"
+        "voicing": "voiced",
+        "nasalization": "nasal",
+        "length": "short"
       }
     },
     {
@@ -874,7 +1085,13 @@
       "features": {
         "place": "alveolar",
         "manner": "aspirated plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -883,8 +1100,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "lateral ejective affricate",
-        "voicing": "voiceless"
+        "manner": "affricate",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -893,8 +1116,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "lateral ejective fricative",
-        "voicing": "voiceless"
+        "manner": "fricative",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -903,8 +1132,14 @@
       "type": "consonant",
       "features": {
         "place": "dental",
-        "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "apirated"
       }
     },
     {
@@ -913,8 +1148,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -923,8 +1164,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "ejective",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -933,8 +1180,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "ejective fricative",
-        "voicing": "voiceless"
+        "manner": "fricative",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -944,7 +1197,13 @@
       "features": {
         "place": "alveolar",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -954,7 +1213,13 @@
       "features": {
         "place": "alveolar",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -963,8 +1228,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "implosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "implosive",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -973,8 +1244,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "labialized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -983,8 +1260,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "labialized plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -993,8 +1276,15 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "palatalized lateral approximant",
-        "voicing": "voiced"
+        "secondary": "palatal",
+        "manner": "approximant",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1003,8 +1293,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "lateral approximant",
-        "voicing": "voiceless"
+        "manner": "approximant",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1013,8 +1309,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "lateral approximant",
-        "voicing": "voiced"
+        "manner": "approximant",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1023,8 +1325,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "lateral fricative",
-        "voicing": "voiceless"
+        "manner": "fricative",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1033,8 +1341,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "lateral fricative",
-        "voicing": "voiced"
+        "manner": "fricative",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1044,7 +1358,13 @@
       "features": {
         "place": "alveolar",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1054,7 +1374,13 @@
       "features": {
         "place": "velar",
         "manner": "nasal",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1064,7 +1390,13 @@
       "features": {
         "place": "alveolar",
         "manner": "nasal",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1074,7 +1406,13 @@
       "features": {
         "place": "alveolar",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1084,7 +1422,13 @@
       "features": {
         "place": "alveolar",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1094,7 +1438,13 @@
       "features": {
         "place": "alveolar",
         "manner": "tap",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1104,7 +1454,13 @@
       "features": {
         "place": "alveolar",
         "manner": "trill",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1114,7 +1470,13 @@
       "features": {
         "place": "bilabial",
         "manner": "aspirated plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1124,7 +1486,13 @@
       "features": {
         "place": "bilabial",
         "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1134,7 +1502,13 @@
       "features": {
         "place": "bilabial",
         "manner": "ejective",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1144,7 +1518,13 @@
       "features": {
         "place": "bilabial",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1154,7 +1534,13 @@
       "features": {
         "place": "bilabial",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1163,8 +1549,14 @@
       "type": "consonant",
       "features": {
         "place": "bilabial",
-        "manner": "implosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "implosive",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1173,8 +1565,14 @@
       "type": "consonant",
       "features": {
         "place": "bilabial",
-        "manner": "labialized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1183,8 +1581,14 @@
       "type": "consonant",
       "features": {
         "place": "bilabial",
-        "manner": "labialized plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1194,7 +1598,13 @@
       "features": {
         "place": "bilabial",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1204,7 +1614,13 @@
       "features": {
         "place": "bilabial",
         "manner": "nasal",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1214,7 +1630,13 @@
       "features": {
         "place": "bilabial",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1224,7 +1646,13 @@
       "features": {
         "place": "labiodental",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1234,7 +1662,13 @@
       "features": {
         "place": "bilabial",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1244,7 +1678,13 @@
       "features": {
         "place": "labiodental",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1254,7 +1694,13 @@
       "features": {
         "place": "bilabial",
         "manner": "trill",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1264,7 +1710,13 @@
       "features": {
         "place": "dental",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1274,7 +1726,13 @@
       "features": {
         "place": "dental",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1284,7 +1742,13 @@
       "features": {
         "place": "dental",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1294,7 +1758,13 @@
       "features": {
         "place": "dental",
         "manner": "ejective",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1304,7 +1774,13 @@
       "features": {
         "place": "dental",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1314,7 +1790,13 @@
       "features": {
         "place": "glottal",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1324,7 +1806,13 @@
       "features": {
         "place": "glottal",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1334,7 +1822,13 @@
       "features": {
         "place": "labiodental",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1344,7 +1838,13 @@
       "features": {
         "place": "labiodental",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1354,7 +1854,13 @@
       "features": {
         "place": "labiodental",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1364,7 +1870,13 @@
       "features": {
         "place": "labiodental",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1374,7 +1886,13 @@
       "features": {
         "place": "labiodental",
         "manner": "nasal",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1384,7 +1902,13 @@
       "features": {
         "place": "palatal",
         "manner": "approximant",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1394,7 +1918,13 @@
       "features": {
         "place": "palatal",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1404,7 +1934,13 @@
       "features": {
         "place": "palatal",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1414,7 +1950,13 @@
       "features": {
         "place": "palatal",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1423,8 +1965,14 @@
       "type": "consonant",
       "features": {
         "place": "palatal",
-        "manner": "lateral approximant",
-        "voicing": "voiced"
+        "manner": "approximant",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1434,7 +1982,13 @@
       "features": {
         "place": "palatal",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1444,17 +1998,29 @@
       "features": {
         "place": "palatal",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
       "symbol": "ɟ",
-      "name": "voiced palatal stop",
+      "name": "voiced palatal plosive",
       "type": "consonant",
       "features": {
         "place": "palatal",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1464,7 +2030,13 @@
       "features": {
         "place": "palato-alveolar",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1474,7 +2046,13 @@
       "features": {
         "place": "palato-alveolar",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1484,7 +2062,13 @@
       "features": {
         "place": "retroflex",
         "manner": "flap",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1494,7 +2078,13 @@
       "features": {
         "place": "retroflex",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1504,7 +2094,13 @@
       "features": {
         "place": "retroflex",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1513,8 +2109,14 @@
       "type": "consonant",
       "features": {
         "place": "retroflex",
-        "manner": "lateral approximant",
-        "voicing": "voiced"
+        "manner": "approximant",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1524,7 +2126,13 @@
       "features": {
         "place": "retroflex",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1534,7 +2142,13 @@
       "features": {
         "place": "retroflex",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1544,7 +2158,13 @@
       "features": {
         "place": "retroflex",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1554,7 +2174,13 @@
       "features": {
         "place": "uvular",
         "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -1564,7 +2190,13 @@
       "features": {
         "place": "uvular",
         "manner": "ejective",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1574,7 +2206,13 @@
       "features": {
         "place": "uvular",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1584,7 +2222,13 @@
       "features": {
         "place": "uvular",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1594,7 +2238,13 @@
       "features": {
         "place": "uvular",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1604,7 +2254,13 @@
       "features": {
         "place": "velar",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1613,8 +2269,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "aspirated plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -1623,8 +2285,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -1634,7 +2302,13 @@
       "features": {
         "place": "velar",
         "manner": "ejective",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1644,7 +2318,13 @@
       "features": {
         "place": "velar",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1654,7 +2334,13 @@
       "features": {
         "place": "velar",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1663,8 +2349,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "implosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "implosive",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1673,8 +2365,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "labialized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1683,8 +2381,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "labialized plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1694,7 +2398,13 @@
       "features": {
         "place": "velar",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1704,7 +2414,13 @@
       "features": {
         "place": "velar",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1714,7 +2430,13 @@
       "features": {
         "place": "velar",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1723,8 +2445,15 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "palatalized plosive",
-        "voicing": "voiceless"
+        "secondary": "palatal",
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1733,8 +2462,14 @@
       "type": "consonant",
       "features": {
         "place": "palatal",
-        "manner": "ejective",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1743,8 +2478,14 @@
       "type": "consonant",
       "features": {
         "place": "palatal",
-        "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -1754,7 +2495,13 @@
       "features": {
         "place": "alveo-palatal",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1764,7 +2511,13 @@
       "features": {
         "place": "alveo-palatal",
         "manner": "affricate",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1774,7 +2527,13 @@
       "features": {
         "place": "alveo-palatal",
         "manner": "affricate",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1784,7 +2543,13 @@
       "features": {
         "place": "alveolar",
         "manner": "affricate",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1793,8 +2558,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "aspirated affricate",
-        "voicing": "voiced"
+        "manner": "affricate",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -1804,7 +2575,13 @@
       "features": {
         "place": "retroflex",
         "manner": "affricate",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1814,7 +2591,13 @@
       "features": {
         "place": "palato-alveolar",
         "manner": "affricate",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1823,8 +2606,14 @@
       "type": "consonant",
       "features": {
         "place": "palato-alveolar",
-        "manner": "aspirated affricate",
-        "voicing": "voiced"
+        "manner": "affricate",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -1833,28 +2622,46 @@
       "type": "consonant",
       "features": {
         "place": "retroflex",
-        "manner": "aspirated plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
       "symbol": "k͡p",
-      "name": "voiceless labial–velar stop",
+      "name": "voiceless labial–velar plosive",
       "type": "consonant",
       "features": {
         "place": "labial-velar",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
       "symbol": "g͡b",
-      "name": "voiced labial–velar stop",
+      "name": "voiced labial–velar plosive",
       "type": "consonant",
       "features": {
         "place": "labial-velar",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1864,7 +2671,13 @@
       "features": {
         "place": "uvular",
         "manner": "plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1874,7 +2687,13 @@
       "features": {
         "place": "pharyngeal",
         "manner": "fricative",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1884,7 +2703,13 @@
       "features": {
         "place": "glottal",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1892,9 +2717,15 @@
       "name": "voiced velar lateral approximant",
       "type": "consonant",
       "features": {
-        "place": "lateral",
+        "place": "velar",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "lateral",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1904,7 +2735,13 @@
       "features": {
         "place": "dental",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1914,7 +2751,13 @@
       "features": {
         "place": "uvular",
         "manner": "nasal",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1923,8 +2766,14 @@
       "type": "consonant",
       "features": {
         "place": "uvular",
-        "manner": "ejective",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1934,7 +2783,13 @@
       "features": {
         "place": "uvular",
         "manner": "trill",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1944,7 +2799,13 @@
       "features": {
         "place": "alveolar",
         "manner": "approximant",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1954,7 +2815,13 @@
       "features": {
         "place": "alveolar",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1964,7 +2831,13 @@
       "features": {
         "place": "retroflex",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1973,8 +2846,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "ejective fricative",
-        "voicing": "voiceless"
+        "manner": "fricative",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1983,8 +2862,14 @@
       "type": "consonant",
       "features": {
         "place": "palatal",
-        "manner": "ejective fricative",
-        "voicing": "voiceless"
+        "manner": "fricative",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -1994,7 +2879,13 @@
       "features": {
         "place": "alveolar",
         "manner": "affricate",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2003,8 +2894,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "ejective affricate",
-        "voicing": "voiceless"
+        "manner": "affricate",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2013,8 +2910,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "aspirated affricate",
-        "voicing": "voiceless"
+        "manner": "affricate",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -2024,7 +2927,13 @@
       "features": {
         "place": "retroflex",
         "manner": "affricate",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2034,7 +2943,13 @@
       "features": {
         "place": "palato-alveolar",
         "manner": "affricate",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2043,8 +2958,14 @@
       "type": "consonant",
       "features": {
         "place": "palato-alveolar",
-        "manner": "ejective affricate",
-        "voicing": "voiceless"
+        "manner": "affricate",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2053,8 +2974,14 @@
       "type": "consonant",
       "features": {
         "place": "palato-alveolar",
-        "manner": "aspirated affricate",
-        "voicing": "voiceless"
+        "manner": "affricate",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -2063,8 +2990,14 @@
       "type": "consonant",
       "features": {
         "place": "retroflex",
-        "manner": "ejective",
-        "voicing": "voiceless"
+        "manner": "plosive",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2074,7 +3007,13 @@
       "features": {
         "place": "retroflex",
         "manner": "aspirated plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2082,9 +3021,15 @@
       "name": "labialized palatal approximant",
       "type": "consonant",
       "features": {
-        "place": "labialized palatal",
+        "place": "palatal",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "rounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2094,7 +3039,13 @@
       "features": {
         "place": "labial-velar",
         "manner": "approximant",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2104,7 +3055,13 @@
       "features": {
         "place": "labial-velar",
         "manner": "approximant",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2113,8 +3070,14 @@
       "type": "consonant",
       "features": {
         "place": "labial-velar",
-        "manner": "aspirated approximant",
-        "voicing": "voiceless"
+        "manner": "approximant",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "aspirated"
       }
     },
     {
@@ -2123,8 +3086,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "ejective fricative",
-        "voicing": "voiceless"
+        "manner": "fricative",
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "ejective",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2134,7 +3103,13 @@
       "features": {
         "place": "alveo-palatal",
         "manner": "fricative",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2144,7 +3119,13 @@
       "features": {
         "place": "epiglottal",
         "manner": "plosive",
-        "voicing": "voiceless"
+        "voicing": "voiceless",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "modal",
+        "release": "modal"
       }
     },
     {
@@ -2153,8 +3134,14 @@
       "type": "consonant",
       "features": {
         "place": "alveolar",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2163,8 +3150,14 @@
       "type": "consonant",
       "features": {
         "place": "bilabial",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2173,8 +3166,14 @@
       "type": "consonant",
       "features": {
         "place": "labiodental",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2183,18 +3182,30 @@
       "type": "consonant",
       "features": {
         "place": "palatal",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
       "symbol": "ɳ͡ɖ",
-      "name": "prenasalized retroflex plosive",
+      "name": "retroflex plosive",
       "type": "consonant",
       "features": {
         "place": "retroflex",
         "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2203,8 +3214,14 @@
       "type": "consonant",
       "features": {
         "place": "velar",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2213,8 +3230,14 @@
       "type": "consonant",
       "features": {
         "place": "dental",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2223,8 +3246,14 @@
       "type": "consonant",
       "features": {
         "place": "uvular",
-        "manner": "prenasalized plosive",
-        "voicing": "voiced"
+        "manner": "plosive",
+        "voicing": "voiced",
+        "rounding": "unrounded",
+        "airstream": "pulmonic",
+        "airpath": "central",
+        "length": "short",
+        "onset": "nasal",
+        "release": "modal"
       }
     },
     {
@@ -2285,13 +3314,17 @@
       "symbol": "̘",
       "name": "advanced tongue root",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "ATR": "+ATR"
+      }
     },
     {
       "symbol": "̙",
       "name": "retracted tongue root",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "ATR": "-ATR"
+      }
     },
     {
       "symbol": "̜",
@@ -2345,7 +3378,9 @@
       "symbol": "̃",
       "name": "nasalized",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "nasalization": "nasal"
+      }
     },
     {
       "symbol": "̈",
@@ -2363,13 +3398,17 @@
       "symbol": "̆",
       "name": "extra-short",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "length": "extra-short"
+      }
     },
     {
       "symbol": "̚",
       "name": "no audible release",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "release": "unreleased"
+      }
     },
     {
       "symbol": "˞",
@@ -2381,61 +3420,81 @@
       "symbol": "ˡ",
       "name": "lateral release",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "release": "lateral"
+      }
     },
     {
       "symbol": "ⁿ",
       "name": "nasal release",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "release": "nasal"
+      }
     },
     {
       "symbol": "ʷ",
       "name": "labialized",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "rounding": "rounded"
+      }
     },
     {
       "symbol": "ʲ",
       "name": "palatalized",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "secondary": "palatal"
+      }
     },
     {
       "symbol": "ˠ",
       "name": "velarized",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "secondary": "velar"
+      }
     },
     {
       "symbol": "ˤ",
       "name": "pharyngealized",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "secondary": "pharyngeal"
+      }
     },
     {
       "symbol": "ʰ",
       "name": "aspirated",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "release": "aspirated"
+      }
     },
     {
       "symbol": "ʼ",
       "name": "ejective",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "airstream": "ejective"
+      }
     },
     {
       "symbol": "ː",
       "name": "long",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "length": "long"
+      }
     },
     {
       "symbol": "ˑ",
       "name": "half-long",
       "type": "diacritic",
-      "features": {}
+      "features": {
+        "length": "half-long"
+      }
     },
     {
       "symbol": "͡",
