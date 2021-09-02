@@ -2,7 +2,7 @@
 
 Experimenting with creating a database of default phonetic features for all IPA characters.
 
-These databases are incomplete: there are no features for diacrtics yet, for instance.
+These databases are incomplete: there are no features for diacritics yet, for instance.
 
 There are two data files in this repo:
 
