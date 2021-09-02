@@ -98,14 +98,7 @@
         "height": "close",
         "rounding": "unrounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0069", 
-          "name": "LATIN SMALL LETTER I",
-          "character": "i"
-        }
-      ]
+      }
     },
     {
       "symbol": "y",
@@ -115,14 +108,7 @@
         "height": "close",
         "rounding": "rounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0079",
-          "name": "LATIN SMALL LETTER Y",
-          "character": "y"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɨ",
@@ -132,14 +118,7 @@
         "height": "close",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "0268",
-          "name": "LATIN SMALL LETTER I WITH STROKE",
-          "character": "ɨ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʉ",
@@ -149,14 +128,7 @@
         "height": "close",
         "rounding": "rounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "0289",
-          "name": "LATIN SMALL LETTER U BAR",
-          "character": "ʉ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɯ",
@@ -166,14 +138,7 @@
         "height": "close",
         "rounding": "unrounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "026F",
-          "name": "LATIN SMALL LETTER TURNED M",
-          "character": "ɯ"
-        }
-      ]
+      }
     },
     {
       "symbol": "u",
@@ -183,14 +148,7 @@
         "height": "close",
         "rounding": "rounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "0075",
-          "name": "LATIN SMALL LETTER U",
-          "character": "u"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɪ",
@@ -200,14 +158,7 @@
         "height": "near-close",
         "rounding": "unrounded",
         "backness": "near-front"
-      },
-      "characters": [
-        {
-          "codepoint": "026A",
-          "name": "LATIN LETTER SMALL CAPITAL I",
-          "character": "ɪ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʏ",
@@ -217,14 +168,7 @@
         "height": "near-close",
         "rounding": "rounded",
         "backness": "near-front"
-      },
-      "characters": [
-        {
-          "codepoint": "028F",
-          "name": "LATIN LETTER SMALL CAPITAL Y",
-          "character": "ʏ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɪ̈",
@@ -234,19 +178,7 @@
         "height": "near-close",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "026A",
-          "name": "LATIN LETTER SMALL CAPITAL I",
-          "character": "ɪ"
-        },
-        {
-          "codepoint": "0308",
-          "name": "COMBINING DIAERESIS",
-          "character": "̈"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʊ̈",
@@ -256,19 +188,7 @@
         "height": "near-close",
         "rounding": "rounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "028A",
-          "name": "LATIN SMALL LETTER UPSILON",
-          "character": "ʊ"
-        },
-        {
-          "codepoint": "0308",
-          "name": "COMBINING DIAERESIS",
-          "character": "̈"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɯ̽",
@@ -278,19 +198,7 @@
         "height": "near-close",
         "rounding": "unrounded",
         "backness": "near-back"
-      },
-      "characters": [
-        {
-          "codepoint": "026F",
-          "name": "LATIN SMALL LETTER TURNED M",
-          "character": "ɯ"
-        },
-        {
-          "codepoint": "033D",
-          "name": "COMBINING X ABOVE",
-          "character": "̽"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʊ",
@@ -300,14 +208,7 @@
         "height": "near-close",
         "rounding": "rounded",
         "backness": "near-back"
-      },
-      "characters": [
-        {
-          "codepoint": "028A",
-          "name": "LATIN SMALL LETTER UPSILON",
-          "character": "ʊ"
-        }
-      ]
+      }
     },
     {
       "symbol": "e",
@@ -317,14 +218,7 @@
         "height": "close-mid",
         "rounding": "unrounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0065",
-          "name": "LATIN SMALL LETTER E",
-          "character": "e"
-        }
-      ]
+      }
     },
     {
       "symbol": "ø",
@@ -334,14 +228,7 @@
         "height": "close-mid",
         "rounding": "rounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "00F8",
-          "name": "LATIN SMALL LETTER O WITH STROKE",
-          "character": "ø"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɘ",
@@ -351,14 +238,7 @@
         "height": "close-mid",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "0258",
-          "name": "LATIN SMALL LETTER REVERSED E",
-          "character": "ɘ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɵ",
@@ -368,14 +248,7 @@
         "height": "close-mid",
         "rounding": "rounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "0275",
-          "name": "LATIN SMALL LETTER BARRED O",
-          "character": "ɵ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɤ",
@@ -385,14 +258,7 @@
         "height": "close-mid",
         "rounding": "unrounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "0264",
-          "name": "LATIN SMALL LETTER RAMS HORN",
-          "character": "ɤ"
-        }
-      ]
+      }
     },
     {
       "symbol": "o",
@@ -402,14 +268,7 @@
         "height": "close-mid",
         "rounding": "rounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "006F",
-          "name": "LATIN SMALL LETTER O",
-          "character": "o"
-        }
-      ]
+      }
     },
     {
       "symbol": "e̞",
@@ -419,19 +278,7 @@
         "height": "mid",
         "rounding": "unrounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0065",
-          "name": "LATIN SMALL LETTER E",
-          "character": "e"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "ø̞",
@@ -441,19 +288,7 @@
         "height": "mid",
         "rounding": "rounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "00F8",
-          "name": "LATIN SMALL LETTER O WITH STROKE",
-          "character": "ø"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "ə",
@@ -463,14 +298,7 @@
         "height": "mid",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "0259",
-          "name": "LATIN SMALL LETTER SCHWA",
-          "character": "ə"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɤ̞",
@@ -480,19 +308,7 @@
         "height": "mid",
         "rounding": "unrounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "0264",
-          "name": "LATIN SMALL LETTER RAMS HORN",
-          "character": "ɤ"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "o̞",
@@ -502,19 +318,7 @@
         "height": "mid",
         "rounding": "rounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "006F",
-          "name": "LATIN SMALL LETTER O",
-          "character": "o"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɛ",
@@ -524,14 +328,7 @@
         "height": "open-mid",
         "rounding": "unrounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "025B",
-          "name": "LATIN SMALL LETTER OPEN E",
-          "character": "ɛ"
-        }
-      ]
+      }
     },
     {
       "symbol": "œ",
@@ -541,14 +338,7 @@
         "height": "open-mid",
         "rounding": "rounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0153",
-          "name": "LATIN SMALL LIGATURE OE",
-          "character": "œ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɜ",
@@ -558,14 +348,7 @@
         "height": "open-mid",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "025C",
-          "name": "LATIN SMALL LETTER REVERSED OPEN E",
-          "character": "ɜ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɞ",
@@ -575,14 +358,7 @@
         "height": "open-mid",
         "rounding": "rounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "025E",
-          "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
-          "character": "ɞ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʌ",
@@ -592,14 +368,7 @@
         "height": "open-mid",
         "rounding": "unrounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "028C",
-          "name": "LATIN SMALL LETTER TURNED V",
-          "character": "ʌ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɔ",
@@ -609,14 +378,7 @@
         "height": "open-mid",
         "rounding": "rounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "0254",
-          "name": "LATIN SMALL LETTER OPEN O",
-          "character": "ɔ"
-        }
-      ]
+      }
     },
     {
       "symbol": "æ",
@@ -626,14 +388,7 @@
         "height": "near-open",
         "rounding": "unrounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "00E6",
-          "name": "LATIN SMALL LETTER AE",
-          "character": "æ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɞ̞",
@@ -643,19 +398,7 @@
         "height": "near-open",
         "rounding": "rounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "025E",
-          "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
-          "character": "ɞ"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɐ",
@@ -665,14 +408,7 @@
         "height": "near-open",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "0250",
-          "name": "LATIN SMALL LETTER TURNED A",
-          "character": "ɐ"
-        }
-      ]
+      }
     },
     {
       "symbol": "a",
@@ -682,14 +418,7 @@
         "height": "open",
         "rounding": "unrounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0061",
-          "name": "LATIN SMALL LETTER A",
-          "character": "a"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɶ",
@@ -699,14 +428,7 @@
         "height": "open",
         "rounding": "rounded",
         "backness": "front"
-      },
-      "characters": [
-        {
-          "codepoint": "0276",
-          "name": "LATIN LETTER SMALL CAPITAL OE",
-          "character": "ɶ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ä",
@@ -716,14 +438,7 @@
         "height": "open",
         "rounding": "unrounded",
         "backness": "central"
-      },
-      "characters": [
-        {
-          "codepoint": "00E4",
-          "name": "LATIN SMALL LETTER A WITH DIAERESIS",
-          "character": "ä"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɑ",
@@ -733,14 +448,7 @@
         "height": "open",
         "rounding": "unrounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "0251",
-          "name": "LATIN SMALL LETTER ALPHA",
-          "character": "ɑ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɒ",
@@ -750,14 +458,7 @@
         "height": "open",
         "rounding": "rounded",
         "backness": "back"
-      },
-      "characters": [
-        {
-          "codepoint": "0252",
-          "name": "LATIN SMALL LETTER TURNED ALPHA",
-          "character": "ɒ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ĩ",
@@ -768,14 +469,7 @@
         "rounding": "unrounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0129",
-          "name": "LATIN SMALL LETTER I WITH TILDE",
-          "character": "ĩ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ỹ",
@@ -786,14 +480,7 @@
         "rounding": "rounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "1EF9",
-          "name": "LATIN SMALL LETTER Y WITH TILDE",
-          "character": "ỹ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɨ̃",
@@ -804,19 +491,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0268",
-          "name": "LATIN SMALL LETTER I WITH STROKE",
-          "character": "ɨ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʉ̃",
@@ -827,19 +502,7 @@
         "rounding": "rounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0289",
-          "name": "LATIN SMALL LETTER U BAR",
-          "character": "ʉ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɯ̃",
@@ -850,19 +513,7 @@
         "rounding": "unrounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "026F",
-          "name": "LATIN SMALL LETTER TURNED M",
-          "character": "ɯ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ũ",
@@ -873,14 +524,7 @@
         "rounding": "rounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0169",
-          "name": "LATIN SMALL LETTER U WITH TILDE",
-          "character": "ũ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɪ̃",
@@ -891,19 +535,7 @@
         "rounding": "unrounded",
         "backness": "near-front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "026A",
-          "name": "LATIN LETTER SMALL CAPITAL I",
-          "character": "ɪ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʏ̃",
@@ -914,19 +546,7 @@
         "rounding": "rounded",
         "backness": "near-front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "028F",
-          "name": "LATIN LETTER SMALL CAPITAL Y",
-          "character": "ʏ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɪ̈̃",
@@ -937,24 +557,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "026A",
-          "name": "LATIN LETTER SMALL CAPITAL I",
-          "character": "ɪ"
-        },
-        {
-          "codepoint": "0308",
-          "name": "COMBINING DIAERESIS",
-          "character": "̈"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʊ̈̃",
@@ -965,24 +568,7 @@
         "rounding": "rounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "028A",
-          "name": "LATIN SMALL LETTER UPSILON",
-          "character": "ʊ"
-        },
-        {
-          "codepoint": "0308",
-          "name": "COMBINING DIAERESIS",
-          "character": "̈"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɯ̽̃",
@@ -993,24 +579,7 @@
         "rounding": "unrounded",
         "backness": "near-back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "026F",
-          "name": "LATIN SMALL LETTER TURNED M",
-          "character": "ɯ"
-        },
-        {
-          "codepoint": "033D",
-          "name": "COMBINING X ABOVE",
-          "character": "̽"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʊ̃",
@@ -1021,19 +590,7 @@
         "rounding": "rounded",
         "backness": "near-back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "028A",
-          "name": "LATIN SMALL LETTER UPSILON",
-          "character": "ʊ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ẽ",
@@ -1044,14 +601,7 @@
         "rounding": "unrounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "1EBD",
-          "name": "LATIN SMALL LETTER E WITH TILDE",
-          "character": "ẽ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ø̃",
@@ -1062,19 +612,7 @@
         "rounding": "rounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00F8",
-          "name": "LATIN SMALL LETTER O WITH STROKE",
-          "character": "ø"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɘ̃",
@@ -1085,19 +623,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0258",
-          "name": "LATIN SMALL LETTER REVERSED E",
-          "character": "ɘ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɵ̃",
@@ -1108,19 +634,7 @@
         "rounding": "rounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0275",
-          "name": "LATIN SMALL LETTER BARRED O",
-          "character": "ɵ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɤ̃",
@@ -1131,19 +645,7 @@
         "rounding": "unrounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0264",
-          "name": "LATIN SMALL LETTER RAMS HORN",
-          "character": "ɤ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "õ",
@@ -1154,14 +656,7 @@
         "rounding": "rounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00F5",
-          "name": "LATIN SMALL LETTER O WITH TILDE",
-          "character": "õ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ẽ̞",
@@ -1172,19 +667,7 @@
         "rounding": "unrounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "1EBD",
-          "name": "LATIN SMALL LETTER E WITH TILDE",
-          "character": "ẽ"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "ø̞̃",
@@ -1195,24 +678,7 @@
         "rounding": "rounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00F8",
-          "name": "LATIN SMALL LETTER O WITH STROKE",
-          "character": "ø"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ə̃",
@@ -1223,19 +689,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0259",
-          "name": "LATIN SMALL LETTER SCHWA",
-          "character": "ə"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɤ̞̃",
@@ -1246,24 +700,7 @@
         "rounding": "unrounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0264",
-          "name": "LATIN SMALL LETTER RAMS HORN",
-          "character": "ɤ"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "õ̞",
@@ -1274,19 +711,7 @@
         "rounding": "rounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00F5",
-          "name": "LATIN SMALL LETTER O WITH TILDE",
-          "character": "õ"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɛ̃",
@@ -1297,19 +722,7 @@
         "rounding": "unrounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "025B",
-          "name": "LATIN SMALL LETTER OPEN E",
-          "character": "ɛ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "œ̃",
@@ -1320,19 +733,7 @@
         "rounding": "rounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0153",
-          "name": "LATIN SMALL LIGATURE OE",
-          "character": "œ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɜ̃",
@@ -1343,19 +744,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "025C",
-          "name": "LATIN SMALL LETTER REVERSED OPEN E",
-          "character": "ɜ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɞ̃",
@@ -1366,19 +755,7 @@
         "rounding": "rounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "025E",
-          "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
-          "character": "ɞ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʌ̃",
@@ -1389,19 +766,7 @@
         "rounding": "unrounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "028C",
-          "name": "LATIN SMALL LETTER TURNED V",
-          "character": "ʌ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɔ̃",
@@ -1412,19 +777,7 @@
         "rounding": "rounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0254",
-          "name": "LATIN SMALL LETTER OPEN O",
-          "character": "ɔ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "æ̃",
@@ -1435,19 +788,7 @@
         "rounding": "unrounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00E6",
-          "name": "LATIN SMALL LETTER AE",
-          "character": "æ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɞ̞̃",
@@ -1458,24 +799,7 @@
         "rounding": "rounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "025E",
-          "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
-          "character": "ɞ"
-        },
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɐ̃",
@@ -1486,19 +810,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0250",
-          "name": "LATIN SMALL LETTER TURNED A",
-          "character": "ɐ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ã",
@@ -1509,14 +821,7 @@
         "rounding": "unrounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00E3",
-          "name": "LATIN SMALL LETTER A WITH TILDE",
-          "character": "ã"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɶ̃",
@@ -1527,19 +832,7 @@
         "rounding": "rounded",
         "backness": "front",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0276",
-          "name": "LATIN LETTER SMALL CAPITAL OE",
-          "character": "ɶ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ä̃",
@@ -1550,19 +843,7 @@
         "rounding": "unrounded",
         "backness": "central",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "00E4",
-          "name": "LATIN SMALL LETTER A WITH DIAERESIS",
-          "character": "ä"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɑ̃",
@@ -1573,19 +854,7 @@
         "rounding": "unrounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0251",
-          "name": "LATIN SMALL LETTER ALPHA",
-          "character": "ɑ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɒ̃",
@@ -1596,19 +865,7 @@
         "rounding": "rounded",
         "backness": "back",
         "nasalization": "nasal"
-      },
-      "characters": [
-        {
-          "codepoint": "0252",
-          "name": "LATIN SMALL LETTER TURNED ALPHA",
-          "character": "ɒ"
-        },
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃"
-        }
-      ]
+      }
     },
     {
       "symbol": "dʱ",
@@ -1618,19 +875,7 @@
         "place": "alveolar",
         "manner": "aspirated plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "02B1",
-          "name": "MODIFIER LETTER SMALL H WITH HOOK",
-          "character": "ʱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡ɬʼ",
@@ -1640,29 +885,7 @@
         "place": "alveolar",
         "manner": "lateral ejective affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "026C",
-          "name": "LATIN SMALL LETTER L WITH BELT",
-          "character": "ɬ"
-        },
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɬ’",
@@ -1672,19 +895,7 @@
         "place": "alveolar",
         "manner": "lateral ejective fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "026C",
-          "name": "LATIN SMALL LETTER L WITH BELT",
-          "character": "ɬ"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "t̪ʰ",
@@ -1694,24 +905,7 @@
         "place": "dental",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "tʰ",
@@ -1721,19 +915,7 @@
         "place": "alveolar",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "tʼ",
@@ -1743,19 +925,7 @@
         "place": "alveolar",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ"
-        }
-      ]
+      }
     },
     {
       "symbol": "sʼ",
@@ -1765,19 +935,7 @@
         "place": "alveolar",
         "manner": "ejective fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0073",
-          "name": "LATIN SMALL LETTER S",
-          "character": "s"
-        },
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ"
-        }
-      ]
+      }
     },
     {
       "symbol": "s",
@@ -1787,14 +945,7 @@
         "place": "alveolar",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0073",
-          "name": "LATIN SMALL LETTER S",
-          "character": "s"
-        }
-      ]
+      }
     },
     {
       "symbol": "z",
@@ -1804,14 +955,7 @@
         "place": "alveolar",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "007A",
-          "name": "LATIN SMALL LETTER Z",
-          "character": "z"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɗ",
@@ -1821,14 +965,7 @@
         "place": "alveolar",
         "manner": "implosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0257",
-          "name": "LATIN SMALL LETTER D WITH HOOK",
-          "character": "ɗ"
-        }
-      ]
+      }
     },
     {
       "symbol": "dʷ",
@@ -1838,19 +975,7 @@
         "place": "alveolar",
         "manner": "labialized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ"
-        }
-      ]
+      }
     },
     {
       "symbol": "tʷ",
@@ -1860,19 +985,7 @@
         "place": "alveolar",
         "manner": "labialized plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ"
-        }
-      ]
+      }
     },
     {
       "symbol": "lʲ",
@@ -1882,19 +995,7 @@
         "place": "alveolar",
         "manner": "palatalized lateral approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006C",
-          "name": "LATIN SMALL LETTER L",
-          "character": "l"
-        },
-        {
-          "codepoint": "02B2",
-          "name": "MODIFIER LETTER SMALL J",
-          "character": "ʲ"
-        }
-      ]
+      }
     },
     {
       "symbol": "l̥",
@@ -1904,19 +1005,7 @@
         "place": "alveolar",
         "manner": "lateral approximant",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006C",
-          "name": "LATIN SMALL LETTER L",
-          "character": "l"
-        },
-        {
-          "codepoint": "0325",
-          "name": "COMBINING RING BELOW",
-          "character": "̥"
-        }
-      ]
+      }
     },
     {
       "symbol": "l",
@@ -1926,14 +1015,7 @@
         "place": "alveolar",
         "manner": "lateral approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006C",
-          "name": "LATIN SMALL LETTER L",
-          "character": "l"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɬ",
@@ -1943,14 +1025,7 @@
         "place": "alveolar",
         "manner": "lateral fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "026C",
-          "name": "LATIN SMALL LETTER L WITH BELT",
-          "character": "ɬ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɮ",
@@ -1960,14 +1035,7 @@
         "place": "alveolar",
         "manner": "lateral fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "026E",
-          "name": "LATIN SMALL LETTER LEZH",
-          "character": "ɮ"
-        }
-      ]
+      }
     },
     {
       "symbol": "n",
@@ -1977,14 +1045,7 @@
         "place": "alveolar",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006E",
-          "name": "LATIN SMALL LETTER N",
-          "character": "n"
-        }
-      ]
+      }
     },
     {
       "symbol": "ŋ̊",
@@ -1994,19 +1055,7 @@
         "place": "velar",
         "manner": "nasal",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "014B",
-          "name": "LATIN SMALL LETTER ENG",
-          "character": "ŋ"
-        },
-        {
-          "codepoint": "030A",
-          "name": "COMBINING RING ABOVE",
-          "character": "̊"
-        }
-      ]
+      }
     },
     {
       "symbol": "n̥",
@@ -2016,19 +1065,7 @@
         "place": "alveolar",
         "manner": "nasal",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006E",
-          "name": "LATIN SMALL LETTER N",
-          "character": "n"
-        },
-        {
-          "codepoint": "0325",
-          "name": "COMBINING RING BELOW",
-          "character": "̥"
-        }
-      ]
+      }
     },
     {
       "symbol": "d",
@@ -2038,14 +1075,7 @@
         "place": "alveolar",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        }
-      ]
+      }
     },
     {
       "symbol": "t",
@@ -2055,14 +1085,7 @@
         "place": "alveolar",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɾ",
@@ -2072,14 +1095,7 @@
         "place": "alveolar",
         "manner": "tap",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "027E",
-          "name": "LATIN SMALL LETTER R WITH FISHHOOK",
-          "character": "ɾ"
-        }
-      ]
+      }
     },
     {
       "symbol": "r",
@@ -2089,14 +1105,7 @@
         "place": "alveolar",
         "manner": "trill",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0072",
-          "name": "LATIN SMALL LETTER R",
-          "character": "r"
-        }
-      ]
+      }
     },
     {
       "symbol": "bʱ",
@@ -2106,19 +1115,7 @@
         "place": "bilabial",
         "manner": "aspirated plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        },
-        {
-          "codepoint": "02B1",
-          "name": "MODIFIER LETTER SMALL H WITH HOOK",
-          "character": "ʱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "pʰ",
@@ -2128,19 +1125,7 @@
         "place": "bilabial",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0070",
-          "name": "LATIN SMALL LETTER P",
-          "character": "p"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "pʼ",
@@ -2150,19 +1135,7 @@
         "place": "bilabial",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0070",
-          "name": "LATIN SMALL LETTER P",
-          "character": "p"
-        },
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɸ",
@@ -2172,14 +1145,7 @@
         "place": "bilabial",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0278",
-          "name": "LATIN SMALL LETTER PHI",
-          "character": "ɸ"
-        }
-      ]
+      }
     },
     {
       "symbol": "β",
@@ -2189,14 +1155,7 @@
         "place": "bilabial",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "03B2",
-          "name": "GREEK SMALL LETTER BETA",
-          "character": "β"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɓ",
@@ -2206,14 +1165,7 @@
         "place": "bilabial",
         "manner": "implosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0253",
-          "name": "LATIN SMALL LETTER B WITH HOOK",
-          "character": "ɓ"
-        }
-      ]
+      }
     },
     {
       "symbol": "bʷ",
@@ -2223,19 +1175,7 @@
         "place": "bilabial",
         "manner": "labialized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        },
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ"
-        }
-      ]
+      }
     },
     {
       "symbol": "pʷ",
@@ -2245,19 +1185,7 @@
         "place": "bilabial",
         "manner": "labialized plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0070",
-          "name": "LATIN SMALL LETTER P",
-          "character": "p"
-        },
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ"
-        }
-      ]
+      }
     },
     {
       "symbol": "m",
@@ -2267,14 +1195,7 @@
         "place": "bilabial",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006D",
-          "name": "LATIN SMALL LETTER M",
-          "character": "m"
-        }
-      ]
+      }
     },
     {
       "symbol": "m̥",
@@ -2284,19 +1205,7 @@
         "place": "bilabial",
         "manner": "nasal",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006D",
-          "name": "LATIN SMALL LETTER M",
-          "character": "m"
-        },
-        {
-          "codepoint": "0325",
-          "name": "COMBINING RING BELOW",
-          "character": "̥"
-        }
-      ]
+      }
     },
     {
       "symbol": "b",
@@ -2306,14 +1215,7 @@
         "place": "bilabial",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        }
-      ]
+      }
     },
     {
       "symbol": "b̪",
@@ -2323,19 +1225,7 @@
         "place": "labiodental",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "p",
@@ -2345,14 +1235,7 @@
         "place": "bilabial",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0070",
-          "name": "LATIN SMALL LETTER P",
-          "character": "p"
-        }
-      ]
+      }
     },
     {
       "symbol": "p̪",
@@ -2362,19 +1245,7 @@
         "place": "labiodental",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0070",
-          "name": "LATIN SMALL LETTER P",
-          "character": "p"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʙ",
@@ -2384,14 +1255,7 @@
         "place": "bilabial",
         "manner": "trill",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0299",
-          "name": "LATIN LETTER SMALL CAPITAL B",
-          "character": "ʙ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ð",
@@ -2401,14 +1265,7 @@
         "place": "dental",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "00F0",
-          "name": "LATIN SMALL LETTER ETH",
-          "character": "ð"
-        }
-      ]
+      }
     },
     {
       "symbol": "θ",
@@ -2418,14 +1275,7 @@
         "place": "dental",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "03B8",
-          "name": "GREEK SMALL LETTER THETA",
-          "character": "θ"
-        }
-      ]
+      }
     },
     {
       "symbol": "d̪",
@@ -2435,19 +1285,7 @@
         "place": "dental",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "t̪’",
@@ -2457,24 +1295,7 @@
         "place": "dental",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "t̪",
@@ -2484,19 +1305,7 @@
         "place": "dental",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "h",
@@ -2506,14 +1315,7 @@
         "place": "glottal",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0068",
-          "name": "LATIN SMALL LETTER H",
-          "character": "h"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʔ",
@@ -2523,14 +1325,7 @@
         "place": "glottal",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0294",
-          "name": "LATIN LETTER GLOTTAL STOP",
-          "character": "ʔ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʋ",
@@ -2540,14 +1335,7 @@
         "place": "labiodental",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "028B",
-          "name": "LATIN SMALL LETTER V WITH HOOK",
-          "character": "ʋ"
-        }
-      ]
+      }
     },
     {
       "symbol": "f",
@@ -2557,14 +1345,7 @@
         "place": "labiodental",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0066",
-          "name": "LATIN SMALL LETTER F",
-          "character": "f"
-        }
-      ]
+      }
     },
     {
       "symbol": "v",
@@ -2574,14 +1355,7 @@
         "place": "labiodental",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0076",
-          "name": "LATIN SMALL LETTER V",
-          "character": "v"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɱ",
@@ -2591,14 +1365,7 @@
         "place": "labiodental",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0271",
-          "name": "LATIN SMALL LETTER M WITH HOOK",
-          "character": "ɱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɱ̥",
@@ -2608,19 +1375,7 @@
         "place": "labiodental",
         "manner": "nasal",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0271",
-          "name": "LATIN SMALL LETTER M WITH HOOK",
-          "character": "ɱ"
-        },
-        {
-          "codepoint": "0325",
-          "name": "COMBINING RING BELOW",
-          "character": "̥"
-        }
-      ]
+      }
     },
     {
       "symbol": "j̊",
@@ -2630,19 +1385,7 @@
         "place": "palatal",
         "manner": "approximant",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006A",
-          "name": "LATIN SMALL LETTER J",
-          "character": "j"
-        },
-        {
-          "codepoint": "030A",
-          "name": "COMBINING RING ABOVE",
-          "character": "̊"
-        }
-      ]
+      }
     },
     {
       "symbol": "j",
@@ -2652,14 +1395,7 @@
         "place": "palatal",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006A",
-          "name": "LATIN SMALL LETTER J",
-          "character": "j"
-        }
-      ]
+      }
     },
     {
       "symbol": "ç",
@@ -2669,14 +1405,7 @@
         "place": "palatal",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "00E7",
-          "name": "LATIN SMALL LETTER C WITH CEDILLA",
-          "character": "ç"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʝ",
@@ -2686,14 +1415,7 @@
         "place": "palatal",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "029D",
-          "name": "LATIN SMALL LETTER J WITH CROSSED-TAIL",
-          "character": "ʝ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʎ",
@@ -2703,14 +1425,7 @@
         "place": "palatal",
         "manner": "lateral approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "028E",
-          "name": "LATIN SMALL LETTER TURNED Y",
-          "character": "ʎ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɲ",
@@ -2720,14 +1435,7 @@
         "place": "palatal",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0272",
-          "name": "LATIN SMALL LETTER N WITH LEFT HOOK",
-          "character": "ɲ"
-        }
-      ]
+      }
     },
     {
       "symbol": "c",
@@ -2737,14 +1445,7 @@
         "place": "palatal",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0063",
-          "name": "LATIN SMALL LETTER C",
-          "character": "c"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɟ",
@@ -2754,14 +1455,7 @@
         "place": "palatal",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "025F",
-          "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
-          "character": "ɟ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʃ",
@@ -2771,14 +1465,7 @@
         "place": "palato-alveolar",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0283",
-          "name": "LATIN SMALL LETTER ESH",
-          "character": "ʃ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʒ",
@@ -2788,14 +1475,7 @@
         "place": "palato-alveolar",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0292",
-          "name": "LATIN SMALL LETTER EZH",
-          "character": "ʒ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɽ",
@@ -2805,14 +1485,7 @@
         "place": "retroflex",
         "manner": "flap",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "027D",
-          "name": "LATIN SMALL LETTER R WITH TAIL",
-          "character": "ɽ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʂ",
@@ -2822,14 +1495,7 @@
         "place": "retroflex",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0282",
-          "name": "LATIN SMALL LETTER S WITH HOOK",
-          "character": "ʂ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʐ",
@@ -2839,14 +1505,7 @@
         "place": "retroflex",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0290",
-          "name": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
-          "character": "ʐ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɭ",
@@ -2856,14 +1515,7 @@
         "place": "retroflex",
         "manner": "lateral approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "026D",
-          "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK",
-          "character": "ɭ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɳ",
@@ -2873,14 +1525,7 @@
         "place": "retroflex",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0273",
-          "name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
-          "character": "ɳ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɖ",
@@ -2890,14 +1535,7 @@
         "place": "retroflex",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0256",
-          "name": "LATIN SMALL LETTER D WITH TAIL",
-          "character": "ɖ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʈ",
@@ -2907,14 +1545,7 @@
         "place": "retroflex",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0288",
-          "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
-          "character": "ʈ"
-        }
-      ]
+      }
     },
     {
       "symbol": "qʰ",
@@ -2924,19 +1555,7 @@
         "place": "uvular",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0071",
-          "name": "LATIN SMALL LETTER Q",
-          "character": "q"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "qʼ",
@@ -2946,19 +1565,7 @@
         "place": "uvular",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0071",
-          "name": "LATIN SMALL LETTER Q",
-          "character": "q"
-        },
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʁ",
@@ -2968,14 +1575,7 @@
         "place": "uvular",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0281",
-          "name": "LATIN LETTER SMALL CAPITAL INVERTED R",
-          "character": "ʁ"
-        }
-      ]
+      }
     },
     {
       "symbol": "χ",
@@ -2985,14 +1585,7 @@
         "place": "uvular",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "03C7",
-          "name": "GREEK SMALL LETTER CHI",
-          "character": "χ"
-        }
-      ]
+      }
     },
     {
       "symbol": "q",
@@ -3002,14 +1595,7 @@
         "place": "uvular",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0071",
-          "name": "LATIN SMALL LETTER Q",
-          "character": "q"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɰ",
@@ -3019,14 +1605,7 @@
         "place": "velar",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0270",
-          "name": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
-          "character": "ɰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "gʱ",
@@ -3036,19 +1615,7 @@
         "place": "velar",
         "manner": "aspirated plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0067",
-          "name": "LATIN SMALL LETTER G",
-          "character": "g"
-        },
-        {
-          "codepoint": "02B1",
-          "name": "MODIFIER LETTER SMALL H WITH HOOK",
-          "character": "ʱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "kʰ",
@@ -3058,19 +1625,7 @@
         "place": "velar",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006B",
-          "name": "LATIN SMALL LETTER K",
-          "character": "k"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "kʼ",
@@ -3080,19 +1635,7 @@
         "place": "velar",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006B",
-          "name": "LATIN SMALL LETTER K",
-          "character": "k"
-        },
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɣ",
@@ -3102,14 +1645,7 @@
         "place": "velar",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0263",
-          "name": "LATIN SMALL LETTER GAMMA",
-          "character": "ɣ"
-        }
-      ]
+      }
     },
     {
       "symbol": "x",
@@ -3119,14 +1655,7 @@
         "place": "velar",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0078",
-          "name": "LATIN SMALL LETTER X",
-          "character": "x"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɠ",
@@ -3136,14 +1665,7 @@
         "place": "velar",
         "manner": "implosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0260",
-          "name": "LATIN SMALL LETTER G WITH HOOK",
-          "character": "ɠ"
-        }
-      ]
+      }
     },
     {
       "symbol": "gʷ",
@@ -3153,19 +1675,7 @@
         "place": "velar",
         "manner": "labialized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0067",
-          "name": "LATIN SMALL LETTER G",
-          "character": "g"
-        },
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ"
-        }
-      ]
+      }
     },
     {
       "symbol": "kʷ",
@@ -3175,19 +1685,7 @@
         "place": "velar",
         "manner": "labialized plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006B",
-          "name": "LATIN SMALL LETTER K",
-          "character": "k"
-        },
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ŋ",
@@ -3197,14 +1695,7 @@
         "place": "velar",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "014B",
-          "name": "LATIN SMALL LETTER ENG",
-          "character": "ŋ"
-        }
-      ]
+      }
     },
     {
       "symbol": "g",
@@ -3214,14 +1705,7 @@
         "place": "velar",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0067",
-          "name": "LATIN SMALL LETTER G",
-          "character": "g"
-        }
-      ]
+      }
     },
     {
       "symbol": "k",
@@ -3231,14 +1715,7 @@
         "place": "velar",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006B",
-          "name": "LATIN SMALL LETTER K",
-          "character": "k"
-        }
-      ]
+      }
     },
     {
       "symbol": "kʲ",
@@ -3248,19 +1725,7 @@
         "place": "velar",
         "manner": "palatalized plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006B",
-          "name": "LATIN SMALL LETTER K",
-          "character": "k"
-        },
-        {
-          "codepoint": "02B2",
-          "name": "MODIFIER LETTER SMALL J",
-          "character": "ʲ"
-        }
-      ]
+      }
     },
     {
       "symbol": "c’",
@@ -3270,19 +1735,7 @@
         "place": "palatal",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0063",
-          "name": "LATIN SMALL LETTER C",
-          "character": "c"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "cʰ",
@@ -3292,19 +1745,7 @@
         "place": "palatal",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0063",
-          "name": "LATIN SMALL LETTER C",
-          "character": "c"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɕ",
@@ -3314,14 +1755,7 @@
         "place": "alveo-palatal",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0255",
-          "name": "LATIN SMALL LETTER C WITH CURL",
-          "character": "ɕ"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡ɕ",
@@ -3331,24 +1765,7 @@
         "place": "alveo-palatal",
         "manner": "affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0255",
-          "name": "LATIN SMALL LETTER C WITH CURL",
-          "character": "ɕ"
-        }
-      ]
+      }
     },
     {
       "symbol": "d͡ʑ",
@@ -3358,24 +1775,7 @@
         "place": "alveo-palatal",
         "manner": "affricate",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0291",
-          "name": "LATIN SMALL LETTER Z WITH CURL",
-          "character": "ʑ"
-        }
-      ]
+      }
     },
     {
       "symbol": "d͡z",
@@ -3385,24 +1785,7 @@
         "place": "alveolar",
         "manner": "affricate",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "007A",
-          "name": "LATIN SMALL LETTER Z",
-          "character": "z"
-        }
-      ]
+      }
     },
     {
       "symbol": "d͡zʱ",
@@ -3412,29 +1795,7 @@
         "place": "alveolar",
         "manner": "aspirated affricate",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "007A",
-          "name": "LATIN SMALL LETTER Z",
-          "character": "z"
-        },
-        {
-          "codepoint": "02B1",
-          "name": "MODIFIER LETTER SMALL H WITH HOOK",
-          "character": "ʱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɖ͡ʐ",
@@ -3444,24 +1805,7 @@
         "place": "retroflex",
         "manner": "affricate",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0256",
-          "name": "LATIN SMALL LETTER D WITH TAIL",
-          "character": "ɖ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0290",
-          "name": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
-          "character": "ʐ"
-        }
-      ]
+      }
     },
     {
       "symbol": "d͡ʒ",
@@ -3471,24 +1815,7 @@
         "place": "palato-alveolar",
         "manner": "affricate",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0292",
-          "name": "LATIN SMALL LETTER EZH",
-          "character": "ʒ"
-        }
-      ]
+      }
     },
     {
       "symbol": "d͡ʒʱ",
@@ -3498,29 +1825,7 @@
         "place": "palato-alveolar",
         "manner": "aspirated affricate",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0292",
-          "name": "LATIN SMALL LETTER EZH",
-          "character": "ʒ"
-        },
-        {
-          "codepoint": "02B1",
-          "name": "MODIFIER LETTER SMALL H WITH HOOK",
-          "character": "ʱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɖʱ",
@@ -3530,19 +1835,7 @@
         "place": "retroflex",
         "manner": "aspirated plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0256",
-          "name": "LATIN SMALL LETTER D WITH TAIL",
-          "character": "ɖ"
-        },
-        {
-          "codepoint": "02B1",
-          "name": "MODIFIER LETTER SMALL H WITH HOOK",
-          "character": "ʱ"
-        }
-      ]
+      }
     },
     {
       "symbol": "k͡p",
@@ -3552,24 +1845,7 @@
         "place": "labial-velar",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "006B",
-          "name": "LATIN SMALL LETTER K",
-          "character": "k"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0070",
-          "name": "LATIN SMALL LETTER P",
-          "character": "p"
-        }
-      ]
+      }
     },
     {
       "symbol": "g͡b",
@@ -3579,24 +1855,7 @@
         "place": "labial-velar",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0067",
-          "name": "LATIN SMALL LETTER G",
-          "character": "g"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɢ",
@@ -3606,14 +1865,7 @@
         "place": "uvular",
         "manner": "plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0262",
-          "name": "LATIN LETTER SMALL CAPITAL G",
-          "character": "ɢ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ħ",
@@ -3623,14 +1875,7 @@
         "place": "pharyngeal",
         "manner": "fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0127",
-          "name": "LATIN SMALL LETTER H WITH STROKE",
-          "character": "ħ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɦ",
@@ -3640,14 +1885,7 @@
         "place": "glottal",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0266",
-          "name": "LATIN SMALL LETTER H WITH HOOK",
-          "character": "ɦ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʟ",
@@ -3657,14 +1895,7 @@
         "place": "lateral",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "029F",
-          "name": "LATIN LETTER SMALL CAPITAL L",
-          "character": "ʟ"
-        }
-      ]
+      }
     },
     {
       "symbol": "n̪",
@@ -3674,19 +1905,7 @@
         "place": "dental",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006E",
-          "name": "LATIN SMALL LETTER N",
-          "character": "n"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɴ",
@@ -3696,14 +1915,7 @@
         "place": "uvular",
         "manner": "nasal",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0274",
-          "name": "LATIN LETTER SMALL CAPITAL N",
-          "character": "ɴ"
-        }
-      ]
+      }
     },
     {
       "symbol": "q’",
@@ -3713,19 +1925,7 @@
         "place": "uvular",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0071",
-          "name": "LATIN SMALL LETTER Q",
-          "character": "q"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʀ",
@@ -3735,14 +1935,7 @@
         "place": "uvular",
         "manner": "trill",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0280",
-          "name": "LATIN LETTER SMALL CAPITAL R",
-          "character": "ʀ"
-        }
-      ]
+      }
     },
     {
       "symbol": "r̥",
@@ -3752,19 +1945,7 @@
         "place": "alveolar",
         "manner": "approximant",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0072",
-          "name": "LATIN SMALL LETTER R",
-          "character": "r"
-        },
-        {
-          "codepoint": "0325",
-          "name": "COMBINING RING BELOW",
-          "character": "̥"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɹ",
@@ -3774,14 +1955,7 @@
         "place": "alveolar",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0279",
-          "name": "LATIN SMALL LETTER TURNED R",
-          "character": "ɹ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɻ",
@@ -3791,14 +1965,7 @@
         "place": "retroflex",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "027B",
-          "name": "LATIN SMALL LETTER TURNED R WITH HOOK",
-          "character": "ɻ"
-        }
-      ]
+      }
     },
     {
       "symbol": "s’",
@@ -3808,19 +1975,7 @@
         "place": "alveolar",
         "manner": "ejective fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0073",
-          "name": "LATIN SMALL LETTER S",
-          "character": "s"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʃ’",
@@ -3830,19 +1985,7 @@
         "place": "palatal",
         "manner": "ejective fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0283",
-          "name": "LATIN SMALL LETTER ESH",
-          "character": "ʃ"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡s",
@@ -3852,24 +1995,7 @@
         "place": "alveolar",
         "manner": "affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0073",
-          "name": "LATIN SMALL LETTER S",
-          "character": "s"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡s’",
@@ -3879,29 +2005,7 @@
         "place": "alveolar",
         "manner": "ejective affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0073",
-          "name": "LATIN SMALL LETTER S",
-          "character": "s"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡sʰ",
@@ -3911,29 +2015,7 @@
         "place": "alveolar",
         "manner": "aspirated affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0073",
-          "name": "LATIN SMALL LETTER S",
-          "character": "s"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʈ͡ʂ",
@@ -3943,24 +2025,7 @@
         "place": "retroflex",
         "manner": "affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0288",
-          "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
-          "character": "ʈ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0282",
-          "name": "LATIN SMALL LETTER S WITH HOOK",
-          "character": "ʂ"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡ʃ",
@@ -3970,24 +2035,7 @@
         "place": "palato-alveolar",
         "manner": "affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0283",
-          "name": "LATIN SMALL LETTER ESH",
-          "character": "ʃ"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡ʃ’",
@@ -3997,29 +2045,7 @@
         "place": "palato-alveolar",
         "manner": "ejective affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0283",
-          "name": "LATIN SMALL LETTER ESH",
-          "character": "ʃ"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "t͡ʃʰ",
@@ -4029,29 +2055,7 @@
         "place": "palato-alveolar",
         "manner": "aspirated affricate",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0074",
-          "name": "LATIN SMALL LETTER T",
-          "character": "t"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0283",
-          "name": "LATIN SMALL LETTER ESH",
-          "character": "ʃ"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʈ’",
@@ -4061,19 +2065,7 @@
         "place": "retroflex",
         "manner": "ejective",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0288",
-          "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
-          "character": "ʈ"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʈʰ",
@@ -4083,19 +2075,7 @@
         "place": "retroflex",
         "manner": "aspirated plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0288",
-          "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
-          "character": "ʈ"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɥ",
@@ -4105,14 +2085,7 @@
         "place": "labialized palatal",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0265",
-          "name": "LATIN SMALL LETTER TURNED H",
-          "character": "ɥ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʍ",
@@ -4122,14 +2095,7 @@
         "place": "labial-velar",
         "manner": "approximant",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "028D",
-          "name": "LATIN SMALL LETTER TURNED W",
-          "character": "ʍ"
-        }
-      ]
+      }
     },
     {
       "symbol": "w",
@@ -4139,14 +2105,7 @@
         "place": "labial-velar",
         "manner": "approximant",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0077",
-          "name": "LATIN SMALL LETTER W",
-          "character": "w"
-        }
-      ]
+      }
     },
     {
       "symbol": "wʰ",
@@ -4156,19 +2115,7 @@
         "place": "labial-velar",
         "manner": "aspirated approximant",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0077",
-          "name": "LATIN SMALL LETTER W",
-          "character": "w"
-        },
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ"
-        }
-      ]
+      }
     },
     {
       "symbol": "x’",
@@ -4178,19 +2125,7 @@
         "place": "velar",
         "manner": "ejective fricative",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "0078",
-          "name": "LATIN SMALL LETTER X",
-          "character": "x"
-        },
-        {
-          "codepoint": "2019",
-          "name": "RIGHT SINGLE QUOTATION MARK",
-          "character": "’"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʑ",
@@ -4200,14 +2135,7 @@
         "place": "alveo-palatal",
         "manner": "fricative",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0291",
-          "name": "LATIN SMALL LETTER Z WITH CURL",
-          "character": "ʑ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ʡ",
@@ -4217,14 +2145,7 @@
         "place": "epiglottal",
         "manner": "plosive",
         "voicing": "voiceless"
-      },
-      "characters": [
-        {
-          "codepoint": "02A1",
-          "name": "LATIN LETTER GLOTTAL STOP WITH STROKE",
-          "character": "ʡ"
-        }
-      ]
+      }
     },
     {
       "symbol": "n͡d",
@@ -4234,24 +2155,7 @@
         "place": "alveolar",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006E",
-          "name": "LATIN SMALL LETTER N",
-          "character": "n"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        }
-      ]
+      }
     },
     {
       "symbol": "m͡b",
@@ -4261,24 +2165,7 @@
         "place": "bilabial",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006D",
-          "name": "LATIN SMALL LETTER M",
-          "character": "m"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɱ͡b̪",
@@ -4288,29 +2175,7 @@
         "place": "labiodental",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0271",
-          "name": "LATIN SMALL LETTER M WITH HOOK",
-          "character": "ɱ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0062",
-          "name": "LATIN SMALL LETTER B",
-          "character": "b"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɲ͡ɟ",
@@ -4320,24 +2185,7 @@
         "place": "palatal",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0272",
-          "name": "LATIN SMALL LETTER N WITH LEFT HOOK",
-          "character": "ɲ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "025F",
-          "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
-          "character": "ɟ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɳ͡ɖ",
@@ -4347,24 +2195,7 @@
         "place": "retroflex",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0273",
-          "name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
-          "character": "ɳ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0256",
-          "name": "LATIN SMALL LETTER D WITH TAIL",
-          "character": "ɖ"
-        }
-      ]
+      }
     },
     {
       "symbol": "ŋ͡g",
@@ -4374,24 +2205,7 @@
         "place": "velar",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "014B",
-          "name": "LATIN SMALL LETTER ENG",
-          "character": "ŋ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0067",
-          "name": "LATIN SMALL LETTER G",
-          "character": "g"
-        }
-      ]
+      }
     },
     {
       "symbol": "n̪͡d̪",
@@ -4401,34 +2215,7 @@
         "place": "dental",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "006E",
-          "name": "LATIN SMALL LETTER N",
-          "character": "n"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0064",
-          "name": "LATIN SMALL LETTER D",
-          "character": "d"
-        },
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪"
-        }
-      ]
+      }
     },
     {
       "symbol": "ɴ͡ɢ",
@@ -4438,528 +2225,223 @@
         "place": "uvular",
         "manner": "prenasalized plosive",
         "voicing": "voiced"
-      },
-      "characters": [
-        {
-          "codepoint": "0274",
-          "name": "LATIN LETTER SMALL CAPITAL N",
-          "character": "ɴ"
-        },
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡"
-        },
-        {
-          "codepoint": "0262",
-          "name": "LATIN LETTER SMALL CAPITAL G",
-          "character": "ɢ"
-        }
-      ]
+      }
     },
     {
       "symbol": "̴",
       "name": "velarized or pharyngealized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0334",
-          "name": "COMBINING TILDE OVERLAY",
-          "character": "̴",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̼",
       "name": "linguolabial",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "033C",
-          "name": "COMBINING SEAGULL BELOW",
-          "character": "̼",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̪",
       "name": "dental",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "032A",
-          "name": "COMBINING BRIDGE BELOW",
-          "character": "̪",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̻",
       "name": "laminal",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "033B",
-          "name": "COMBINING SQUARE BELOW",
-          "character": "̻",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̺",
       "name": "apical",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "033A",
-          "name": "COMBINING INVERTED BRIDGE BELOW",
-          "character": "̺",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̟",
       "name": "advanced",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "031F",
-          "name": "COMBINING PLUS SIGN BELOW",
-          "character": "̟",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̠",
       "name": "retracted",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0320",
-          "name": "COMBINING MINUS SIGN BELOW",
-          "character": "̠",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̝",
       "name": "raised",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "031D",
-          "name": "COMBINING UP TACK BELOW",
-          "character": "̝",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̞",
       "name": "lowered",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "031E",
-          "name": "COMBINING DOWN TACK BELOW",
-          "character": "̞",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̘",
       "name": "advanced tongue root",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0318",
-          "name": "COMBINING LEFT TACK BELOW",
-          "character": "̘",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̙",
       "name": "retracted tongue root",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0319",
-          "name": "COMBINING RIGHT TACK BELOW",
-          "character": "̙",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̜",
       "name": "less rounded",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "031C",
-          "name": "COMBINING LEFT HALF RING BELOW",
-          "character": "̜",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̹",
       "name": "more rounded",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0339",
-          "name": "COMBINING RIGHT HALF RING BELOW",
-          "character": "̹",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̬",
       "name": "voiced",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "032C",
-          "name": "COMBINING CARON BELOW",
-          "character": "̬",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̥",
       "name": "voiceless",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0325",
-          "name": "COMBINING RING BELOW",
-          "character": "̥",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̰",
       "name": "creaky voiced",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0330",
-          "name": "COMBINING TILDE BELOW",
-          "character": "̰",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̤",
       "name": "breathy voiced",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0324",
-          "name": "COMBINING DIAERESIS BELOW",
-          "character": "̤",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̩",
       "name": "syllabic",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0329",
-          "name": "COMBINING VERTICAL LINE BELOW",
-          "character": "̩",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̯",
       "name": "non-syllabic",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "032F",
-          "name": "COMBINING INVERTED BREVE BELOW",
-          "character": "̯",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̃",
       "name": "nasalized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0303",
-          "name": "COMBINING TILDE",
-          "character": "̃",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̈",
       "name": "centralized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0308",
-          "name": "COMBINING DIAERESIS",
-          "character": "̈",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̽",
       "name": "mid-centralized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "033D",
-          "name": "COMBINING X ABOVE",
-          "character": "̽",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̆",
       "name": "extra-short",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0306",
-          "name": "COMBINING BREVE",
-          "character": "̆",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "̚",
       "name": "no audible release",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "031A",
-          "name": "COMBINING LEFT ANGLE ABOVE",
-          "character": "̚",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "˞",
       "name": "rhotacized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02DE",
-          "name": "MODIFIER LETTER RHOTIC HOOK",
-          "character": "˞",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ˡ",
       "name": "lateral release",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02E1",
-          "name": "MODIFIER LETTER SMALL L",
-          "character": "ˡ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ⁿ",
       "name": "nasal release",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "207F",
-          "name": "SUPERSCRIPT LATIN SMALL LETTER N",
-          "character": "ⁿ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ʷ",
       "name": "labialized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02B7",
-          "name": "MODIFIER LETTER SMALL W",
-          "character": "ʷ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ʲ",
       "name": "palatalized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02B2",
-          "name": "MODIFIER LETTER SMALL J",
-          "character": "ʲ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ˠ",
       "name": "velarized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02E0",
-          "name": "MODIFIER LETTER SMALL GAMMA",
-          "character": "ˠ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ˤ",
       "name": "pharyngealized",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02E4",
-          "name": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP",
-          "character": "ˤ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ʰ",
       "name": "aspirated",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02B0",
-          "name": "MODIFIER LETTER SMALL H",
-          "character": "ʰ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ʼ",
       "name": "ejective",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02BC",
-          "name": "MODIFIER LETTER APOSTROPHE",
-          "character": "ʼ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ː",
       "name": "long",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02D0",
-          "name": "MODIFIER LETTER TRIANGULAR COLON",
-          "character": "ː",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "ˑ",
       "name": "half-long",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "02D1",
-          "name": "MODIFIER LETTER HALF TRIANGULAR COLON",
-          "character": "ˑ",
-          "features": {}
-        }
-      ]
+      "features": {}
     },
     {
       "symbol": "͡",
       "name": "tie bar",
       "type": "diacritic",
-      "features": {},
-      "characters": [
-        {
-          "codepoint": "0361",
-          "name": "COMBINING DOUBLE INVERTED BREVE",
-          "character": "͡",
-          "features": {}
-        }
-      ]
+      "features": {}
     }
   ]
 }
